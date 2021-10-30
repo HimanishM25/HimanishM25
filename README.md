@@ -4,9 +4,9 @@
 ## ❤️Things I love:
 
  <ul>
-  <li>Android Development and frameworks</li>
   <li>Music</li>
   <li>Coffee!!!</li>
+  <li>Android Development and frameworks</li>
 </ul>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=HimanishM25&count_private=true&theme=tokyonight&showicons=true)]()
