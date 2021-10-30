@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/HimanishM25/HimanishM25/exp/assets/effects.svg" alt="Himanish Mandrekar" />
 
-#H2 👋Hi I am <strong>Himanish</strong>, a CSE undergrad student at VIT Bhopal.
+#H2 👋Hi I am <strong>Himanish</strong>, a CSE undergrad student at VIT Bhopal. #H2
 <h3>❤️Things I love:</h3>
 <p>
  <ul>
