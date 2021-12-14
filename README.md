@@ -9,4 +9,4 @@
   <li>Android Development and frameworks</li>
 </ul>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=HimanishM25&count_private=true&theme=tokyonight&showicons=true)]()
+[![Himanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimanishM25)](https://github.com/HimanishM25/github-readme-stats)
