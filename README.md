@@ -9,4 +9,4 @@
   <li>Android Development and frameworks</li>
 </ul>
 
-[![Himanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimanishM25&show_icons=true&count_private=true&theme=gruvbox_light)](https://github.com/HimanishM25/github-readme-stats)
+![Himanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimanishM25&show_icons=true&count_private=true&theme=gruvbox_light)
