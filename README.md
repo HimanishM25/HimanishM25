@@ -23,18 +23,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanishM25&size_weight=0.5&count_weight=0.5&layout=donut&theme=gruvbox#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanishM25&size_weight=0.5&count_weight=0.5&layout=compact&theme=gruvbox_light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)   
 
-### ❤️Things I love:
-<ul>
-  <li>Music</li>
-  <li>Coffee!!!</li>
-  <li>Android Development and frameworks</li>
-</ul> 
-
-
-
 [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=HimanishM25&show_icons=true&count_private=true&theme=gruvbox#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=HimanishM25&show_icons=true&count_private=true&theme=gruvbox_light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-
+### ❤️Things I love:
+### Coffee, Music and Everything Android
 
 
