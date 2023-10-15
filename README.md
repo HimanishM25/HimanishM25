@@ -16,7 +16,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌐 I’m love contributing to **Open source projects based on Android Dev.**
+- 🌐 I love contributing to **Open source projects based on Android Dev.**
 
 - 📚 I’m currently learning **designing apps with Jetpack Compose**
 
