@@ -3,10 +3,8 @@
 <!-- User stats -->
 [![GitHub followers](https://img.shields.io/github/followers/himanishm25?style=social)](https://github.com/himanishm25)
 [![GitHub stars](https://img.shields.io/github/stars/himanishm25?style=social)](https://github.com/himanishm25)
-[![GitHub contributions](https://img.shields.io/github/last-commit/himanishm25/himanishm25)](https://github.com/himanishm25/himanishm25)
 [![GitHub issues](https://img.shields.io/github/issues/himanishm25/himanishm25)](https://github.com/himanishm25/himanishm25)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/himanishm25/himanishm25)](https://github.com/himanishm25/himanishm25)
-[![GitHub repo size](https://img.shields.io/github/repo-size/himanishm25/himanishm25)](https://github.com/himanishm25/himanishm25)
 
 <p>
     <a href="https://github.com/HimanishM25/github-readme-streak-stats">
